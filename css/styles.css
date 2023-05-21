@@ -685,8 +685,8 @@ transform: translateY(100%);
   overflow: hidden;
 }
 
-.projects-title-link:hover.overlay,
-.projects-title-link:focus.overlay {
+.projects-title-link:hover .overlay,
+.projects-title-link:focus .overlay {
   transform: translateY(0%);
 }
 
@@ -768,7 +768,7 @@ width: 24px;
 }
 
 .modal-close-btn:hover,
-.modal-close-btnv:focus{
+.modal-close-btn:focus{
     background-color: #404bbf; 
     border: none; 
      fill: #ffffff;
@@ -779,3 +779,4 @@ width: 24px;
 .modal-close-icon{
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
