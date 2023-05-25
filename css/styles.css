@@ -290,7 +290,7 @@ color: #4D5AE5;
 .projects-title {
   box-sizing: border-box;
   background: #ffffff;
-  border: 1px solid #e7e9fc;
+  
 }
 .top-line {
   box-sizing: border-box;
@@ -457,7 +457,7 @@ color: #4D5AE5;
 .project-name{
    padding: 32px 16px;
     border: 1px solid #e7e9fc;
-    
+    border-top:none;
 }
 
 .title-description{
